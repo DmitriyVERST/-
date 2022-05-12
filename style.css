@@ -1,0 +1,608 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+    width: 100%;
+    
+}
+.slk-menu {
+    margin-left: 24px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+.text-menu {
+    margin-top: -37px;
+    margin-left: 230px;
+}
+.menu {
+    margin-top: 20px;
+    margin-left: 165px;
+}
+.btn-menu {
+    margin-left: 30px;
+    border-radius: 10px;
+    border: 1px solid #FF7235;
+    background-color: #fff;
+    font-weight: normal;
+    font-size: 18px;
+    font-family: 'Hind Siliguri', sans-serif;
+    height: 34px;
+    width: 150x;
+    color: #FF7235;
+}
+.h1textmenu {
+    animation-duration: 1.5s;
+    font-size: 80px;
+    height: 288px;
+    width: 590px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.gln-text-menu {
+    margin-left: -50px;
+    margin-top: 140px;
+}
+.ptextmenu {
+    animation-duration: 2s;
+    padding-top: 43px;
+    font-family: 'Hind Siliguri', sans-serif;
+    width: 590px;
+    height: 39px;
+    color: #BDBDBD;
+    font-size: 24px;
+}
+.butmenu {
+    animation-duration: 2.4s;
+    height: 75px;
+    width: 325px;
+    color: #fff;
+    background:  #FF7235;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 24px;
+    border: 1px solid #FF7235;
+    border-radius: 3px;
+}
+.img-gln-menu {
+    margin-top: -500px;
+    margin-left: 530px;
+}
+.product {
+    margin-top: 150px;
+    margin-left: -70px;
+}
+.txt {
+    animation-duration: 1.5s;
+    margin-top: 190px;
+    margin-left: 100px;
+    color: black;
+    font-size: 80px;
+    height: 350px;
+    width: 730px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.peip {
+    animation-duration: 2s;
+    margin-left: 100px;
+    margin-top: 130px;
+    width: 540px;
+    height: 117px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+    color: #BDBDBD;
+}
+.btn-block2 {
+    animation-duration: 2.4s;
+    margin-top: -19px;
+    margin-left: 100px;
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: #FF7235;
+    color: black;
+    font-size: 24px;
+    padding: 18px 24px;
+    border: 1px solid #FF7235;
+    border-radius: 3px;
+}
+.im-block_2 {
+    margin-top: -770px;
+    margin-left: 770px
+}
+.text-block2 {
+    margin-left: -40px;
+}
+.amg {
+    margin-top: -430px;
+    margin-left: 100px;
+}
+.tyt {
+    animation-duration: 1.5s;
+    margin-top: 340px;
+    margin-left: 750px;
+    color: black;
+    width: 540px;
+    height: 200px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 56px;
+    font-weight: bold;
+}
+.tp {
+    animation-duration: 2s;
+    font-family: 'Hind Siliguri', sans-serif;
+    width: 540px;
+    height: 117px;
+    margin-left: 750px;
+    color: #BDBDBD;
+    font-size: 24px;
+}
+.bit-block-3 {
+    animation-duration: 2.4s;
+    margin-left: 750px;
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: #FF7235;
+    color: black;
+    font-size: 24px;
+    padding: 18px 24px;
+    border: 1px solid #FF7235;
+    border-radius: 3px;
+}
+.textbl1 {
+    animation-duration: 1.5s;
+    color: black;
+    width: 540px;
+    height: 200px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 56px;
+    font-weight: bold;
+}
+.textbl2 {
+    animation-duration: 2s;
+    margin-top: -15px;
+    font-family: 'Hind Siliguri', sans-serif;
+    width: 540px;
+    height: 117px;
+    color: #BDBDBD;
+    font-size: 24px;
+}
+.textbl3 {
+    animation-duration: 2.4s;
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: #FF7235;
+    color: black;
+    font-size: 24px;
+    padding: 18px 24px;
+    border: 1px solid #FF7235;
+    border-radius: 3px;
+}
+.text-block4 {
+    margin-top: 360px;
+    margin-left: 100px;
+}
+.images {
+    margin-top: -450px;
+    margin-left: 700px;
+}
+.fiker {
+    position: absolute;
+    width: 640px;
+    height: 192px;
+    font-weight: bold;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 56px;
+    color: black;
+}
+.leater {
+    margin-left: 580px;
+    padding-top: 56px;
+    font-family: 'Hind Siliguri', sans-serif;
+    width: 540px;
+    height: 117px;
+    color: #BDBDBD;
+    font-size: 24px;
+}
+.text-block5 {
+    margin-left: 100px;
+    margin-top: 230px;
+}
+.textimg {
+    margin-left: 350px;
+    margin-top: 150px;
+}
+.text-imgh2 {
+    margin-top: 6px;
+    margin-left: -105px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.text-imgp {
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 14px;
+    color: #BDBDBD;
+    width: 290px;
+    height: 46px;
+    margin-top: -10px;
+    margin-left: -112px;
+}
+.genel {
+    margin-left: 900px;
+}
+.textimgh2 {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+.textimgp {
+    margin-left: 30px;
+    margin-top: -13px;
+    font-size: 14px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: #BDBDBD;
+}
+.fuseal {
+    margin-top: -13px;
+    margin-left: 825px;
+}
+.text2img {
+    margin-top: -147px;
+}
+.glntextblock6 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 55px;
+    margin-top: -740px;
+}
+.imgblock6 {
+    margin-top: 200px;
+}
+.kart {
+    margin-left: 20px;
+    width: 350px;
+    height: 500px;
+    position: absolute;
+    background: #fff;
+    border: 1px solid #F5F5F5;
+    box-sizing: border-box;
+    border-radius: 12px; 
+}
+.kart2 {
+    margin-left: 475px;
+    width: 350px;
+    height: 500px;
+    position: absolute;
+    background: #fff;
+    border: 1px solid #F5F5F5;
+    box-sizing: border-box;
+    border-radius: 12px; 
+}
+.kart3 {
+    margin-left: 930px;
+    width: 350px;
+    height: 500px;
+    position: absolute;
+    background: #fff;
+    border: 1px solid #F5F5F5;
+    box-sizing: border-box;
+    border-radius: 12px; 
+}
+.form {
+    margin-top: 80px;
+}
+.geta {
+    margin-top: 50px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.getapik {
+    padding: 6px;
+    position: static;
+    font-size: 14px;
+    color: #292830;
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'Hind Siliguri', sans-serif;
+    margin-left: 20px;
+}
+.text-getapik {
+    padding-top: 4px;
+}
+.babki {
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.knpblock6 {
+    margin-top: 35px;
+    margin-left: 20px;
+    position: absolute;
+    font-family: 'Hind Siliguri', sans-serif;
+    background: #fff;
+    width: 136px;
+    height: 50px;
+    border: 1px solid #FF7235;
+    border-radius: 8px;
+    color: #FF7235;
+    padding: 15 24;
+    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+}
+.knpblock6g {
+    margin-top: 35px;
+    margin-left: 20px;
+    position: absolute;
+    font-family: 'Hind Siliguri', sans-serif;
+    background: #FF7235;
+    width: 136px;
+    height: 50px;
+    border: 1px solid #FF7235;
+    border-radius: 8px;
+    color: #fff;
+    padding: 15 24;
+    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+}
+.banner {
+    margin-top: -38px;
+}
+.gt {
+    margin-top: 710px;
+    height: 750px;
+    width: 850;
+    background-color: #FF7235;
+}
+.ilka {
+    margin-bottom: 150px;
+    margin-top: -350px;
+}
+.baner-text {
+    margin-left: 175px;
+    width: 1220px;
+    height: 100px;
+    font-size: 68px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    margin-top: -750px;
+}
+.baner-textp {
+    margin-top: -30px;
+    margin-left: 305px;
+    text-align: center;
+    color: #F5F5F5;
+    font-size: 33px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: normal;
+    width: 690px;
+    height: 60px;
+}
+.btn-banner {
+    margin-top: 20px;
+    margin-left: 540px;
+    font-size: 15px;
+    background-color: #fff;
+    border: 1px solid #FF7235;
+    border-radius: 8px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #FF7235;
+    position: static;
+    width: 213px;
+    height: 60px;
+    padding: 18px 24px;
+}
+@media screen and (max-width:565px) {
+    .container {
+        margin: 0;
+        padding: 0;
+    }
+    .logo {
+        margin-left: -130px;
+    }
+    .slk-menu {
+        display: none;
+        padding-left: 15px;
+        margin-left: -50PX;
+        font-size: 10px;
+    } 
+    .btn-menu {
+        font-size: 15px;
+        margin-left: -160px;
+    }
+    .h1textmenu {
+        margin-top: -70px;
+        width: 260px;
+        margin-left: -80px;
+        font-size: 40px;
+    } 
+    .ptextmenu {
+        width: 320px;
+        margin-left: -85px;
+        margin-top: -110px;
+    }
+    .butmenu {
+        margin-left: -85px;
+        margin-top: 20px;
+        height: 50px;
+        width: 190px;
+        font-size: 15px;
+    }
+    .img-gln-menu {
+        display: none;
+    }
+    .product {
+        margin-left: -53px;
+        width: 560px;
+        margin-top: 60px;
+    }
+    .im-block_2 {
+        display: none;
+    }
+    .txt {
+        width: 260px;
+        font-size: 40px;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+    .peip {
+        margin-left: 70px;
+        margin-top: -90px;
+        width: 320px;
+    }
+    .btn-block2 {
+        padding: 10px;
+        color: #fff;
+        height: 50px;
+        width: 190px;
+        font-size: 15px;
+        margin-top: 2px;
+        margin-left: 70px;
+    }
+    .text-block2 {
+        margin-left: 5px;
+    }
+    .gln-text-menu {
+        margin-left: 5px;
+    } 
+    .amg {
+        display: none;
+    }
+    .text-block-3 {
+        margin-top: -160px;
+        margin-left: -690px;
+    }
+    .tyt {
+        width: 260px;
+        font-size: 55px;
+    }
+    .tp {
+        margin-top: 140px;
+        width: 320px;
+    }
+    .bit-block-3 {
+        margin-top: 80px;
+        color: #fff;
+        height: 50px;
+        width: 190px;
+        font-size: 15px;
+        padding: 10px;
+    }
+    .images {
+        display: none;
+    }
+    .text-block4 {
+        margin-top: 170px;
+        margin-left: 50px;
+    }
+    .textbl1 {
+        width: 330px;
+        font-size: 50px;
+    }
+    .textbl2 {
+        margin-top: 50px;
+        width: 360px;
+        font-size: 25px;
+    } 
+    .textbl3 {
+        padding: 10px;
+        height: 50px;
+        width: 140px;
+        color: #fff;
+        font-size: 15px;
+        margin-top: 50px;
+    }
+    .fiker {
+        margin-top: -65px;
+        text-align: center;
+        width: 300px;
+        font-size: 30px;
+        margin-left: -20px;
+    }
+    .leater {
+        margin-top: -90px;
+        padding-left: 45px;
+        width: 390px;
+        font-size: 20px;
+        margin-left: -100px;
+    }
+    .text-block5 {
+        margin-top: 320px;
+    }
+    .textimg {
+        margin-top: 70px;
+        margin-left: 190px;
+    }
+    .text2img {
+        margin-top: 50px;
+        margin-left: -705px;
+    }
+    .textimgh2 {
+        margin-left: -14px;
+    }
+    .block6 {
+        margin-top: -15px;
+    }
+    .glntextblock6 {
+        width: 300px;
+        font-size: 30px;
+        margin-left: 70px;
+        margin-top: -1600px;
+    }
+    .kart {
+        margin-top: -50px;
+        margin-left: 50px;
+        height: 430px;
+    }
+    .kart2 {
+        height: 430px;
+        margin-left: 50px;
+        margin-top: 450px;
+    }
+    .kart3 {
+        height: 430px;
+        margin-top: 950px;
+        margin-left: 50px;
+    }
+    .imgblock6 {
+        height: 1650px;
+    }
+    .gt {
+        margin-top: -473px;
+        height: 750px;
+        width: 565px;
+    }
+    .baner-text {
+        padding-left: 20px;
+        padding-top: 330px;
+        text-align: center;
+        width: 350px;
+        font-size: 40px;
+        margin-left: 30px;
+    }
+    .baner-textp {
+        width: 300px;
+        margin-top: 30px;
+        margin-left: 70px;
+        font-size: 25px;
+    }
+    .bobik {
+        display: none;
+    }
+    .ilka {
+        display: none;
+    }
+    .btn-banner {
+        margin-top: 70px;
+        margin-left: 110px;
+    }
+    .banner {
+        margin-top: 2000px;
+    }
+
+
+    }
